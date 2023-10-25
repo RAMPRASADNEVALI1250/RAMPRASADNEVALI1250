@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Netflix-clone DevOps Project
+- 🌱 I’m currently learning Ansible, Security for DevOps
+- 📫 How to reach me: ramprasad.nevali@gmail.com
+- 😄 Pronouns: He/Him
+  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1y0zSu5hYE1pJSdqmI/giphy.gif" width="500"/>
 </div>
