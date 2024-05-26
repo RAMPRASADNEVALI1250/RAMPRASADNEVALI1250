@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Netflix-clone DevOps Project
 - 🌱 I’m currently learning Ansible, Security for DevOps
-- 📫 How to reach me: ramprasad.nevali@gmail.com
+- 📫 How to reach me: rprn1703@gmail.com
 - 😄 Pronouns: He/Him
   
 <div id="header" align="center">
