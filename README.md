@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Netflix-clone DevOps Project
-- 🌱 I’m currently learning Ansible, Security for DevOps
+- 🌱 I’m currently learning Security for DevOps
 - 📫 How to reach me: rprn1703@gmail.com
 - 😄 Pronouns: He/Him
   
